@@ -12,6 +12,8 @@ pageInfo:
 # Optional app settings and configuration
 appConfig:
   theme: colorful
+  webSearch:
+    searchEngine: startpage
 
 # Main content - An array of sections, each containing an array of items
 sections:
