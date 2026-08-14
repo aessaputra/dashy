@@ -76,3 +76,7 @@ sections:
         options:
           rssUrl: https://github.com/lissy93/dashy/releases.atom
           limit: 5
+
+  - name: Tools
+    icon: fas fa-tools
+    items: []
