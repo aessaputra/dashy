@@ -42,6 +42,10 @@ sections:
         description: Application deployment platform
         url: https://coolify.aes.my.id
         icon: fas fa-cloud
+      - title: authentik
+        description: Identity provider and access management
+        url: https://auth.aes.my.id
+        icon: fas fa-shield-alt
 
   - name: External Apps
     icon: fas fa-globe
