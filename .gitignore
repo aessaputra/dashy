@@ -21,3 +21,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Graphify output
+graphify-out/
