@@ -38,6 +38,10 @@ sections:
         provider: Dashy.to
         icon: far fa-book
         url: https://dashy.to/docs
+      - title: Coolify
+        description: Application deployment platform
+        url: https://coolify.aes.my.id
+        icon: fas fa-cloud
 
   - name: External Apps
     icon: fas fa-globe
