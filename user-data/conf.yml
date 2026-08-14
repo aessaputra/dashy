@@ -18,7 +18,7 @@ appConfig:
   auth:
     enableOidc: true
     oidc:
-      clientId: HhlslB3PMLUeTeU85bWz5EUIKEDE4rNmmWF5gzyN
+      clientId: dashy
       endpoint: https://auth.aes.my.id/application/o/dashy/
       adminGroup: dashy-admins
       scope: openid profile email groups
