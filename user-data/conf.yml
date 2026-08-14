@@ -11,7 +11,8 @@ pageInfo:
 
 # Optional app settings and configuration
 appConfig:
-  theme: colorful
+  theme: solarized-light
+  startingView: minimal
   webSearch:
     searchEngine: startpage
   auth:
