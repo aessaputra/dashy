@@ -1,8 +1,8 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: Home
+  description: Everything in one place
   navLinks:
   - title: GitHub
     path: https://github.com/Lissy93/dashy
@@ -25,8 +25,8 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
-  - name: Getting Started
-    icon: fas fa-rocket
+  - name: Internal Apps
+    icon: fas fa-server
     items:
       - title: GitHub
         description: Source Code, Issues and Pull Requests
@@ -38,8 +38,8 @@ sections:
         icon: far fa-book
         url: https://dashy.to/docs
 
-  - name: Support Dashy
-    icon: fas fa-heart
+  - name: External Apps
+    icon: fas fa-globe
     displayData:
       itemSize: large
     widgets:
@@ -55,8 +55,8 @@ sections:
         color: '#ff78d1'
         backgroundColor: '#c30c844a'
 
-  - name: Latest Updates
-    icon: fas fa-code-branch
+  - name: Updates
+    icon: fas fa-rss
     displayData:
       cols: 1
       rows: 3
