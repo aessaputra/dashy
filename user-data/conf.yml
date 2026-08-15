@@ -27,6 +27,10 @@ sections:
         description: Identity provider and access management
         url: https://auth.aes.my.id
         icon: fas fa-shield-alt
+      - title: Pi-hole
+        url: http://pi.hole
+        description: Network-wide ad blocking DNS
+        icon: fas fa-wifi
 
   - name: External Apps
     icon: fas fa-globe
