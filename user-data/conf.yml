@@ -38,15 +38,6 @@ sections:
       itemSize: large
     items:
       - title: GitHub
-        url: https://github.com/aessaputra
-        description: Source Code and Issues
-        icon: si-github
-      - title: Sponsor
-        url: https://github.com/sponsors/aessaputra
-        description: Sponsor @aessaputra on GitHub to support with ongoing development of Dashy
-        icon: 🩷
-        color: '#ff78d1'
-        backgroundColor: '#c30c844a'
 
   - name: Updates
     icon: fas fa-rss
